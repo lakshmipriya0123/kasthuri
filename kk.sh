@@ -5,4 +5,5 @@ echo "entered name is:"$name
 hello
 hai
 lakshmi
+priya
 
